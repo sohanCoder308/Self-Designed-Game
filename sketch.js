@@ -8,13 +8,13 @@ var food,foodImg1;
 
 function preload()
 {
-	backgroundImg = loadImage("Images/Farm.jpg");
-	tomImage = loadImage("Images/p1.gif");
-	D1image= loadImage("Images/diamond2.png");
-	CoinImage= loadImage("Images/coin1.png");
-	M1image = loadImage("Images/monster.png");
-	nightImg = loadImage("Images/backgnight.gif");
-	foodImg1 = loadImage("Images/food1.jpg");
+	backgroundImg = loadImage("Farm.jpg");
+	tomImage = loadImage("p1.gif");
+	D1image= loadImage("diamond2.png");
+	CoinImage= loadImage("coin1.png");
+	M1image = loadImage("monster.png");
+	nightImg = loadImage("backgnight.gif");
+	foodImg1 = loadImage("food1.jpg");
 }
 
 function setup() {
